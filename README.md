@@ -6,9 +6,7 @@
 
 <p>In Phase 3 of this osTicket tutorial, we’ll demonstrate the full lifecycle of a ticket, from creation to resolution. You’ll see how tickets are managed, prioritized using SLAs, and escalated or resolved efficiently. This phase covers intake, assignment, triaging, and closing tickets within osTicket.</p>
 
-<h2>Video Demonstration</h2>
 
-- ### 
 
   
 <h2>Environments and Technologies Used</h2>
